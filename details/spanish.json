@@ -1,0 +1,679 @@
+{
+    "tasksData": [
+        {
+            "name": "REGGAETON",
+            "localizedName": "REGGAETON",
+            "gameType": 0,
+            "useMixedTypes": false,
+            "orderNumber": 0,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "Caramelo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "El Perdón",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "Por Primera Vez",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "For Ya",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "Te Bote",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "Vuelve",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "Que Mal Te Fue",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "CÓMO SE SIENTE",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "Bichota",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "Orgullo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "Miss Lonely",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "Hawái",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "ADMV",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "Ocean",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "Perdóname",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "Del Mar",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "Amorfoda",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "Tan Enamorados",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "Cómo Mirarte",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "Brillo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 21,
+                    "rightAnswer": "Quizás",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "Relación",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "UN DÍA",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "Ella Y Yo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "La Tóxica",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 26,
+                    "rightAnswer": "Despeinada",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "Tusa",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "Quiero Una Chica",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "Compositor Del Año",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "Si Estuviésemos Juntos",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 31,
+                    "rightAnswer": "Madrid",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 32,
+                    "rightAnswer": "Reflejo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 33,
+                    "rightAnswer": "Para Qué Regresas",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 34,
+                    "rightAnswer": "Vida de Rico",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 35,
+                    "rightAnswer": "La Santa",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 36,
+                    "rightAnswer": "Me Rehúso",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 37,
+                    "rightAnswer": "La Mejor Versión de Mí",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 38,
+                    "rightAnswer": "Parce",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 39,
+                    "rightAnswer": "Dakiti",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 40,
+                    "rightAnswer": "Me Enamoré",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 41,
+                    "rightAnswer": "Travesuras",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 42,
+                    "rightAnswer": "Depredador",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 43,
+                    "rightAnswer": "6 Rings",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 44,
+                    "rightAnswer": "No Hay Nadie Más",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 45,
+                    "rightAnswer": "El Farsante",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 46,
+                    "rightAnswer": "La Última Vez",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 47,
+                    "rightAnswer": "Fénix",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 48,
+                    "rightAnswer": "Quiéreme",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 49,
+                    "rightAnswer": "Tú Me Dejaste de Querer",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 50,
+                    "rightAnswer": "Un Año",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                }
+            ]
+        }
+    ],
+    "gameItems": [
+        {
+            "key": 0,
+            "value": "jugar"
+        },
+        {
+            "key": 1,
+            "value": "acerca de"
+        },
+        {
+            "key": 2,
+            "value": "salir"
+        },
+        {
+            "key": 3,
+            "value": "atrás"
+        },
+        {
+            "key": 4,
+            "value": "¡Prepárate para resolver algunos rompecabezas de imágenes! ¿Quedarse atascado? ¡Usa diferentes pistas! ¡Gana monedas completando tareas o viendo anuncios cortos! ¡Que te diviertas!"
+        },
+        {
+            "key": 5,
+            "value": "bloqueado"
+        },
+        {
+            "key": 6,
+            "value": "Revelar una letra"
+        },
+        {
+            "key": 7,
+            "value": "Quitar letras"
+        },
+        {
+            "key": 8,
+            "value": "Obtén una respuesta"
+        },
+        {
+            "key": 9,
+            "value": "Conseguir monedas"
+        },
+        {
+            "key": 10,
+            "value": "Ver AD"
+        },
+        {
+            "key": 11,
+            "value": "Compra con dinero real"
+        },
+        {
+            "key": 12,
+            "value": "continuar"
+        },
+        {
+            "key": 13,
+            "value": "menú principal"
+        },
+        {
+            "key": 14,
+            "value": "¡Nivel completado!"
+        },
+        {
+            "key": 15,
+            "value": "Si te gustó el juego, ¡califícalo en Google Play!"
+        },
+        {
+            "key": 16,
+            "value": "calificar"
+        },
+        {
+            "key": 17,
+            "value": "Nunca"
+        },
+        {
+            "key": 18,
+            "value": "luego"
+        },
+        {
+            "key": 19,
+            "value": "Consentimiento de recopilación de datos"
+        },
+        {
+            "key": 20,
+            "value": "Anuncios personalizados"
+        },
+        {
+            "key": 21,
+            "value": "Permitir que las redes de AD también utilicen los datos recopilados y muestren anuncios personalizados"
+        },
+        {
+            "key": 22,
+            "value": "si"
+        },
+        {
+            "key": 23,
+            "value": "no"
+        },
+        {
+            "key": 24,
+            "value": "¡Parece que has progresado mejor!"
+        },
+        {
+            "key": 25,
+            "value": "¿Quieres cargarlo?"
+        },
+        {
+            "key": 26,
+            "value": "¡Hola a todos! ¡Solo para informarle, usamos su juego y los datos del dispositivo con su consentimiento para mejorar nuestro juego!"
+        },
+        {
+            "key": 27,
+            "value": "¿Quieres que te presentemos publicidad relevante que se ajuste a tus intereses?"
+        },
+        {
+            "key": 28,
+            "value": "Confirmar"
+        },
+        {
+            "key": 29,
+            "value": "Aprende más"
+        },
+        {
+            "key": 30,
+            "value": "Eliminar respuesta incorrecta"
+        },
+        {
+            "key": 31,
+            "value": "Quitar dos respuestas"
+        },
+        {
+            "key": 32,
+            "value": "Posibilidad de equivocarse"
+        },
+        {
+            "key": 33,
+            "value": "¡Ayúdame a completar el nivel!"
+        },
+        {
+            "key": 34,
+            "value": "Ayuda de amigos"
+        },
+        {
+            "key": 35,
+            "value": "Pregunte a sus amigos"
+        },
+        {
+            "key": 36,
+            "value": "Apostar"
+        },
+        {
+            "key": 37,
+            "value": "¡Usa pistas si te quedas atascado!"
+        },
+        {
+            "key": 38,
+            "value": "Toque la letra para borrarla. Desliza para borrar todas las letras."
+        },
+        {
+            "key": 39,
+            "value": "¡Raspa la película para revelar la imagen!"
+        },
+        {
+            "key": 40,
+            "value": "Toque aquí para que la imagen sea más clara. ¡Requiere oro!"
+        },
+        {
+            "key": 41,
+            "value": "Toque la imagen para que quede más clara. ¡Requiere oro!"
+        },
+        {
+            "key": 42,
+            "value": "Toque aquí para comenzar a apuntar. Toque por segunda vez para disparar. ¡Requiere oro!"
+        },
+        {
+            "key": 43,
+            "value": "Toque el área para comenzar a apuntar. Toque por segunda vez para disparar. ¡Requiere oro!"
+        },
+        {
+            "key": 44,
+            "value": "Toque para obtener información útil sobre la tarea."
+        },
+        {
+            "key": 45,
+            "value": "¿Qué tan difícil es esta tarea? ¡Haz una apuesta correcta!"
+        },
+        {
+            "key": 46,
+            "value": "más juegos"
+        },
+        {
+            "key": 47,
+            "value": "Reintentar"
+        },
+        {
+            "key": 48,
+            "value": "Adivina la canción de reggaeton"
+        }
+    ],
+    "subCategories": [],
+    "randomLetters": [
+        121,
+        98,
+        107,
+        119,
+        116,
+        114,
+        106,
+        118,
+        117,
+        99,
+        113,
+        105,
+        122,
+        120,
+        108
+    ]
+}
